@@ -1,6 +1,8 @@
 ---
-title: "My First Post"
+title: "❤"
 date: 2022-05-04T13:25:38+08:00
+author: xlm
+cover: /img/onlyu.jpg
 draft: false
 ---
 唯伊
