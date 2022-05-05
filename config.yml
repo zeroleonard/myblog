@@ -1,4 +1,8 @@
 baseURL: https://zeroleonard.github.io/myblog
 languageCode: en-us
-title: My New Hugo Site
+title: 宝贝
 theme: "PaperMod"
+
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
