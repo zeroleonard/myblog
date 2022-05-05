@@ -5,3 +5,4 @@ draft: false
 ---
 唯伊
 
+![唯一](https://github.com/zeroleonard/myblog/blob/main/pic/onlyu.jpg#center)
