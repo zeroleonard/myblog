@@ -6,4 +6,4 @@ draft: false
 ---
 唯伊
 
-![only](/myblog/img/微信图片_20220505222214.jpg)
+![only](/myblog/images/andme.jpg)
