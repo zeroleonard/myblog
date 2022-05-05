@@ -6,4 +6,4 @@ draft: false
 ---
 唯伊
 
-<img src="/img/onlyu.jpg" alt="" referrerpolicy="no-referrer">
+<img src="https://github.com/zeroleonard/myblog/blob/main/static/img/onlyu.jpg" alt="" referrerpolicy="no-referrer">
