@@ -6,4 +6,4 @@ draft: false
 ---
 唯伊
 
-![only](/myblog/images/onlyu.jpg)
+![only](/myblog/images/onlyu.jpg#center)
