@@ -5,4 +5,4 @@ draft: false
 ---
 唯伊
 
-![](/pic/onlyu.jpg)
+![](/img/onlyu.jpg)
