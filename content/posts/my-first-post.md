@@ -5,4 +5,4 @@ draft: false
 ---
 唯伊
 
-![avatar](https://github.com/zeroleonard/myblog/blob/main/pic/onlyu.jpg)
+![](/pic/onlyu.jpg)
